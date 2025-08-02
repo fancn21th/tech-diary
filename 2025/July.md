@@ -8,14 +8,23 @@
 ## 05/07
 
 
-Our goal is to create a UI library that addresses the DRY (Don't Repeat Yourself) problem while also establishing a standardized approach to AI component delivery for the team. This library will draw inspiration from open-source AI libraries, such as:
+- Our goal is to create a UI library that addresses the DRY (Don't Repeat Yourself) problem while also establishing a standardized approach to AI component delivery for the team. This library will draw inspiration from open-source AI libraries, such as:
 
-* [Ant Design](https://x.ant.design/docs/react/introduce-cn)
-* [Assistant UI](https://github.com/assistant-ui/assistant-ui)
-* [OpenCanvas](https://opencanvas.langchain.com/)
+  * [Ant Design](https://x.ant.design/docs/react/introduce-cn)
 
-By combining these insights, we aim to provide a robust, reusable solution that ensures consistency and efficiency across AI-driven interfaces.
+    - how to use
+      - Atomic Components (react ui components) + Model Inference Services (react hooks)
+
+  * [Assistant UI](https://github.com/assistant-ui/assistant-ui)
+
+    - how to use
+      -
+
+  * [OpenCanvas](https://opencanvas.langchain.com/)
 
 
+## 06/07
+
+-
 
 
