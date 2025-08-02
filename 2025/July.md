@@ -23,8 +23,6 @@
   * [OpenCanvas](https://opencanvas.langchain.com/)
 
 
-## 06/07
 
--
 
 
